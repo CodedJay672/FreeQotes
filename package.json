@@ -1,0 +1,26 @@
+{
+  "name": "freequotes",
+  "version": "1.0.0",
+  "description": "free quotes generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedjay672/FreeQuotes.git"
+  },
+  "keywords": [
+    "freequotes"
+  ],
+  "author": "Emmanuel Ebuka Ugoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedjay672/FreeQuotes/issues"
+  },
+  "homepage": "https://github.com/codedjay672/FreeQuotes#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
